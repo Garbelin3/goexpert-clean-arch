@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"github.com/Garbelin3/goexpert-clean-arch/infra/grpc/pb"
-	"github.com/Garbelin3/goexpert-clean-arch/usecase"
+	"github.com/Garbelin3/goexpert-clean-arch/internal/infra/grpc/pb"
+	"github.com/Garbelin3/goexpert-clean-arch/internal/usecase"
 )
 
 type OrderService struct {
