@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/devfullcycle/20-CleanArch/internal/entity"
+import "github.com/Garbelin3/goexpert-clean-arch/internal/entity"
 
 type OrderListOutputDTO struct {
 	ID         string  `json:"id"`
